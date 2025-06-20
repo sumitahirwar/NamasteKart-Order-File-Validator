@@ -1,0 +1,10 @@
+{
+    "s3_settings": {
+        "bucket_name": "namastecart",
+        "prefixes": {
+            "incoming_files": "incoming_files/",
+            "success_files": "success_files/",
+            "rejected_files": "rejected_files/"
+        }
+    }
+}
